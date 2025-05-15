@@ -2,9 +2,9 @@
 
 ## Description du projet
 
-Ce projet s'inscrit dans le cadre d'un mémoire de Master en Économie Appliquée, parcours Data Science, à l'Université Paris-Est Créteil (UPEC).
+Ce projet s'inscrit dans le cadre d'un mémoire de Master en Économie Appliquée parcours Data Science à l'Université Paris-Est Créteil.
 
-L'objectif principal de cette étude est d'identifier les facteurs influençant la défaillance des entreprises à partir de données économiques et financières. Le projet comprend une analyse exploratoire des données, la construction de modèles prédictifs, ainsi que le développement d'une application permettant d'estimer le risque de faillite d'une entreprise en fonction de ses caractéristiques.
+L'objectif principal de cette étude est d'identifier les facteurs influençant la défaillance des entreprises à partir de données économiques et financières. Le projet comprend une analyse exploratoire des données, la construction de modèles prédictifs ainsi que le développement d'une application permettant d'estimer le risque de faillite d'une entreprise en fonction de ses caractéristiques.
 
 ---
 
